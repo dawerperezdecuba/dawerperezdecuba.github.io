@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header {
+	background-color: antiquewhite;
+	width:40%;
+	text-align:center;
+	margin:auto;
+	margin-top:20px;
+	padding:20px;
+}
+#left-section {
+	float:left;
+	width:25%;
+}
+#right-section {
+	float:right;
+	width:25%;
+}
+#income {
+	padding-bottom:50px;
+	border:1px solid;
+	padding-left:10px;
+}
+#reports {
+	padding-bottom:350px;
+	border:1px solid;
+	padding-left:10px;
+}
+.form_elements {
+	margin:10px;
+}
+#requiered {
+	padding-bottom:40px;
+	text-align:center;
+	background-color:lightgray;
+	margin-left:28.5%;
+	margin-right:28.5%;
+	padding-top:10px;
+
+	overflow:auto;
+	width:43%;
+	height:300px;
+}
+#goals {
+	padding-bottom:180px;
+	text-align:center;
+	background-color:antiquewhite;
+	margin-left:28.5%;
+	margin-right:28.5%;
+	padding-top:10px;
+	overflow:auto;
+	width:43%;
+	height:50px;
+}
+table {
+
+}
+#other {
+	padding-bottom:50px;
+	border:1px solid;
+	padding-left:10px;
+}
+#modify {
+	padding-bottom:110px;
+	padding-left:10px;
+}
+#add {
+	padding-left:10px;
+}
+#add1 {
+	position:absolute;
+	top:250px;
+	left:250px
+}
+#add2 {
+	position:absolute;
+	top:250px;
+	right:50px
+}
+#add3 {
+	position:absolute;
+	bottom:50px;
+	right:50px
+}
+.items {
+	border:1px solid;
+}
